@@ -28,9 +28,9 @@ twitter = Twitter(auth = OAuth(config.access_key,
 #   http://developer.yahoo.com/geo/geoplanet/
 # twitter API docs: https://dev.twitter.com/rest/reference/get/trends/place
 #-----------------------------------------------------------------------
-results = twitter.trends.place(_id = 23424975)
-
-print("UK Trends")
+results = twitter.trends.place(_id = 2295424)
+print(results)
+print("India Trends")
 
 for location in results:
     for trend in location["trends"]:

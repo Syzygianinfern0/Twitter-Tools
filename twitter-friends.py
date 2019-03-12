@@ -25,7 +25,7 @@ twitter = Twitter(auth = OAuth(config.access_key,
 #-----------------------------------------------------------------------
 # this is the user whose friends we will list
 #-----------------------------------------------------------------------
-username = "ideoforms"
+username = "sharansp2000"
 
 #-----------------------------------------------------------------------
 # perform a basic search 

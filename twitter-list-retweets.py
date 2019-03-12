@@ -7,7 +7,7 @@
 
 from twitter import *
 
-user = "ideoforms"
+user = "sharansp2000"
 
 #-----------------------------------------------------------------------
 # load our API credentials 
